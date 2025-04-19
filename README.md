@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I'm a bioinformatics MSc student based in Spain. I'm interested in omics,  pipeline development for NGS data analysis and machine learning. I also work on random projects on my free time.</p>
+<h5 align="left">I'm a bioinformatics MSc student based in Spain. I'm interested in omics,  pipeline development for NGS data analysis and machine learning. I also work on random projects on my free time.</p>
 
 ###
 
-<p align="left">Knowledge</p>
+<h6 align="left">Knowledge</p>
 
 ###
 
