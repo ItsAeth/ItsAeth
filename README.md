@@ -2,12 +2,6 @@
 
 ###
 
-<p align="left">Bioinformatician based in Spain. Interested in analysis and machine learning</p>
+<p align="left">Bioinformatician based in Spain. Interested in analysis and machine learning.</p>
 
-###
-
-<h6 align="left">My tools</p>
-
-###
-
- ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r) ![Bash](https://img.shields.io/badge/bash-beige?style=for-the-badge&logo=gnubash) ![SQL](https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
